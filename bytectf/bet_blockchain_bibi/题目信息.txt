@@ -1,0 +1,4 @@
+题目名称：bet
+题目描述：0x30d0a604d8c90064a0a3ca4beeea177eff3e9bcd@ropsten
+附件:bet.broken
+flag：flag{bet_f0r+f991jn_34-000}
