@@ -1,0 +1,18 @@
+*****Puzzle 1 HELL05OLID4TY:
+contract address: (rinkeby)
+0xc95872680072f57485aa0913ded224ee70a9e2cb
+
+Description: Just follow the description.
+Key Info:
+  code snapshot:
+  function getInfo() public pure returns(string){...}
+Goal:
+  获得flag{...}。
+
+
+
+Hint: 
+Browser based Wallet: Metamask (Browser plugin)
+Where to get ETH on testnet(rinkeby): https://faucet.rinkeby.io/
+IDE: https://remix.ethereum.org/
+Ethereum Explorer: https://rinkeby.etherscan.io/

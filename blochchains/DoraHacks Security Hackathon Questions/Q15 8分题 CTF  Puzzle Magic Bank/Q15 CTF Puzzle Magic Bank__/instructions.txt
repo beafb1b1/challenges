@@ -1,0 +1,21 @@
+
+
+*****Puzzle 2 MagicBank:
+contract address: (rinkeby)
+0x1180e23d7360fc19cf7c7cd26160763b500b158b
+
+Description: 您好这里是魔法银行。说我们没钱？无中生有！
+
+Key Info:
+  Source code is provided.
+
+Goal: 
+  触发SendFlag事件，题目后台检测到事件后会自动将下一步信息发至您的邮箱。您需提供经过base64编码后的邮箱地址给SendFlag事件，以便接收flag信息。
+
+
+
+Hint: 
+Browser based Wallet: Metamask (Browser plugin)
+Where to get ETH on testnet(rinkeby): https://faucet.rinkeby.io/
+IDE: https://remix.ethereum.org/
+Ethereum Explorer: https://rinkeby.etherscan.io/
