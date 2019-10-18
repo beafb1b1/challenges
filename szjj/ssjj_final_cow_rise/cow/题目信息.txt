@@ -1,0 +1,6 @@
+题目名称：cow
+类型：区块链
+题目描述：0x0c6a4790e6c8a2Fd195daDee7c16C8E5c532239B@ ropsten, event SendFlag(string b64email);
+flag: flag{mew_m3w_m33_uuuuuuuu}
+
+本题目需要启动bot

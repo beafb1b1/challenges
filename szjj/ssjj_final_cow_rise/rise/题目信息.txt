@@ -1,0 +1,6 @@
+题目名称：rise
+类型：区块链
+题目描述：0xc9B91F149d3699474a0E680D55da62FBD3a51485 @ ropsten, event SendFlag(string b64email);
+flag: flag{wellcome_to_bj_2022_winter}
+
+本题目需要启动bot
